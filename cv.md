@@ -1,0 +1,39 @@
+# _**CV**_
+
+## *Maryna Drazdova*  
+
+MarVlDr.j@gmail.com  
+MarVlDr@yandex.by
+
+### Education:
+* _September 2017 - June 2021_  
+  Belarusian State University  [Belarus, Minsk]  
+  Faculty of Applied Mathematics and Computer Science (Computer Science area)  
+
+### Olympiads:
+Participated and won prizes (2 diplomas of 3rd degree) in regional stage of Belarusian National Olympiad in Informatics.
+
+### Internships and courses:
+* _July-September 2019_  
+  > STEP intern in Google.  
+  > _Programming language:_ Typescript ( + D3.js)  
+* _July-August 2018_  
+  > Courses in Itransition company.  
+  > _Programming language:_ Ruby (+ gem RoR)  
+
+### Programming languages:
+* C++
+* Java
+* Typescript ( + D3.js )
+* Assembler
+* Ruby ( + gem RoR )
+
+### Languages:
+* Belarusian
+* English
+* Russian
+
+### Additional interests:
+* Psychology
+* Travelling
+* Self development
